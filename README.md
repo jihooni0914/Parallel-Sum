@@ -5,7 +5,7 @@ Almost 70% of works were created by ChatGPT's GPT-4o
 
 # How to use
 ```bash
-sudo chmod +x run.sh
+chmod +x ./run.sh
 ./run.sh
 ```
 
